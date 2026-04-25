@@ -3,15 +3,4 @@
 This repo is for my smart contracts on Base.
 asd
 ew
-wer
-ert
-te
-rth
-rth
-ty
-tym
-er
-wef
-rth
-yuk
-uil
+ytu
