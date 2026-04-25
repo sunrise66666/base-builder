@@ -12,3 +12,4 @@ tyk
 rth
 yku
 se
+sgd
