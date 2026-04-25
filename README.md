@@ -4,12 +4,3 @@ This repo is for my smart contracts on Base.
 asd
 ew
 sdg
-gfdh
-fgh
-yj
-trj
-rth
-er
-rht
-fgn
-fgh
